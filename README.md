@@ -21,7 +21,7 @@ Esta aplicação foi desenvolvida para automatizar o processo de download do Chr
 
 1. Clone o Repositório:
    ```sh
-   git clone https://github.com/seuusuario/seurepositorio.git
+   git clone https://github.com/SabrynaAlves2106/UpdateChromeDriverVersion.git
 ## Contribuindo
 
 Contribuições são bem-vindas! Por favor, abra uma issue ou envie um pull request.
